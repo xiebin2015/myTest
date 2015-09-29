@@ -1,2 +1,11 @@
 public class Test{
+
+pbulic static void main(String arg[])
+    { 
+
+       System.out.println("hello world");
+
+    }
+
+
 }
